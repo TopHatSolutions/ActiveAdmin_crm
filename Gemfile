@@ -43,3 +43,6 @@ gem 'activeadmin', github: 'activeadmin'
 
 # ActiveAdmin Dependencies
 gem 'devise'
+
+# file manager
+gem 'carrierwave', '~> 0.10.0'
